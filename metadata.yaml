@@ -1,0 +1,37 @@
+_repo: Life-histories-of-North-American-woodpeckers_73940
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bent, Arthur Cleveland
+    aliases:
+    - Bent, Arthur
+    - Bent, A. C. (Arthur Cleveland)
+    birthdate: 1866
+    deathdate: 1954
+    gutenberg_agent_id: '44098'
+    url: http://www.gutenberg.org/2009/agents/44098
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Cleveland_Bent
+description: ''
+gutenberg_issued: '2024-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73940'
+  lccn: '64020879'
+language: en
+pgterms:marc905: 20070327174332bent
+pgterms:marc906: '1939'
+pgterms:marc907: US
+production_note: Carol Brown, Chris Curnow, Joseph Cooper and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bDover Publications, Inc., $c1939, reprint
+  1964.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- North America'
+- !lcsh 'Woodpeckers -- North America'
+- !lcc 'QL'
+- GITenberg
+title: Life histories of North American woodpeckers
+url: http://www.gutenberg.org/ebooks/73940
