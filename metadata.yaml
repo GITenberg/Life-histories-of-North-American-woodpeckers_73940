@@ -1,5 +1,8 @@
 _repo: Life-histories-of-North-American-woodpeckers_73940
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73940-h/images/cover.jpg
 creator:
   author:
     agent_name: Bent, Arthur Cleveland
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44098
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Cleveland_Bent
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73940#Life-histories-of-North-American-woodpeckers
 gutenberg_issued: '2024-06-29'
 gutenberg_type: Text
 identifiers:
